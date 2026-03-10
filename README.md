@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 These are mini-projects I built during my early, **self-taught phase** in web development. They were originally managed as **independent Git repositories** but have been consolidated here for easier portfolio viewing.
 
 - [404-not-found-page](./404-not-found-page/)
